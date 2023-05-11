@@ -1,3 +1,5 @@
+I am helping people to make the right decisions, data-driven decisions. That is what makes me happy.
+
 As a Data Analyst with a background in Project Management, I possess a creative problem-solving attitude. 
 Currently, I am engaged in improving the quality of Connected Drive Functions through Data Analytics. 
 I have gained a detailed understanding of the entire chain through a comprehensive analysis of the function's architecture. 
