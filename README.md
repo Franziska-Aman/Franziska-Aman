@@ -1,4 +1,4 @@
-I am helping people to make the right decisions, data-driven decisions. And I have found my passion with this.
+I am helping people to make the right decisions, data-driven decisions. This is what drives my passion for deep diving into problems, understanding them in detail with all their coherencies and turning them into precise solutions.
 
 As a Data Analyst with a background in Project Management, I possess a creative problem-solving attitude. 
 Currently, I am engaged in improving the quality of Connected Drive Functions through Data Analytics. 
