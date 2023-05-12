@@ -8,4 +8,6 @@ By leveraging this approach, I have significantly surpassed expectations in impr
 My experience has taught me the value of factual insights over mere estimates and how to leverage the potential of data fully. 
 I am confident I can leverage my expertise to optimize business processes, enabling companies to achieve their goals through data-driven insights.
 
+Feel free to check out my portfolio, which shows a summary of some of my open source analysis projects.
+
 📫 How to reach me: franziskaaman (at) aol (dot) com
