@@ -10,4 +10,4 @@ I am confident I can leverage my expertise to optimize business processes, enabl
 
 Feel free to check out my portfolio, which shows a summary of some of my open source analysis projects: https://github.com/Franziska-Aman/Portfolio
 
-📫 How to reach me: franziskaaman (at) aol (dot) com
+
